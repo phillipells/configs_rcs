@@ -9,6 +9,7 @@ set expandtab
 
 set showmatch
 set mat=2
+set paste
 
 set number
 set ruler
