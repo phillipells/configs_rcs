@@ -1,0 +1,17 @@
+make repository on github website
+clone the repo made on github so git clone git@github.com:phillipells/reponame
+NO NEED FOR THIS IF CLONED >> git init inside directory actually maybe not if it's cloned
+throw shit in there
+git add .   to add stuff recursively
+git commit -m "message"
+git pull git@github.com:phillipells/reponame.git > probably isn't necessary
+git push -u origin master
+
+YAY I FINALLY GOT IT ALL GOING!!
+
+for adding stuff
+
+just throw the files in there
+then git add filename
+git commit -m "bal"
+git push -u origin master
